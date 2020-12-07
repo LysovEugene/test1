@@ -1,6 +1,6 @@
 import tmp from './templating.js'
 
-const apiKey = "17772438-7f33dcea2d7ef3f7199f29e71";
+const apiKey = "19420284-73c549d870430bcf92a3ef2ad";
 const baseUrl = "https://pixabay.com/api/";
 export default {
 	fetchPics(searchQuery, page) {
