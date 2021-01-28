@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://MariyaVdovenko.github.io/goit-react-hw-01-components",
+  "homepage": "https://LysovEugene.github.io/test1",
   "eslintConfig": {
     "extends": "react-app"
   },
