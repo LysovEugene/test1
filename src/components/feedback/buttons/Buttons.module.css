@@ -7,7 +7,7 @@
   font-family: Roboto, sans-serif;
 
   color: white;
-  background-color: grey;
+  background-color: greenyellow;
 
   border: none;
   outline: none;
@@ -15,8 +15,8 @@
 }
 .button:hover,
 .button:active {
-  background-color: orange;
-  color: black;
+  background-color: rebeccapurple;
+  color: yellow;
 }
 
 .button:not(:last-child) {
